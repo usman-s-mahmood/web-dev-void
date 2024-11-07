@@ -1,0 +1,8 @@
+# node modules
+node_modules/
+# python virtual environments
+virt/
+venv/
+# VS Code Temps
+.vscode/
+
