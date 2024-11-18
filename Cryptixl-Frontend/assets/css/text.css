@@ -1,0 +1,63 @@
+/* Font Size */
+.fs-1 { font-size: 2.5rem; } /* 40px */
+.fs-2 { font-size: 2rem; } /* 32px */
+.fs-3 { font-size: 1.75rem; } /* 28px */
+.fs-4 { font-size: 1.5rem; } /* 24px */
+.fs-5 { font-size: 1.25rem; } /* 20px */
+.fs-6 { font-size: 1rem; } /* 16px */
+
+/* Font Weight */
+.fw-light { font-weight: 300; } /* Light */
+.fw-normal { font-weight: 400; } /* Normal */
+.fw-bold { font-weight: 700; } /* Bold */
+.fw-bolder { font-weight: bolder; } /* Bolder */
+.fw-lighter { font-weight: lighter; } /* Lighter */
+
+/* Text Alignment */
+.text-start { text-align: left; }
+.text-center { text-align: center; }
+.text-end { text-align: right; }
+
+/* Text Color */
+.text-primary { color: #0d6efd; } /* Blue */
+.text-secondary { color: #6c757d; } /* Gray */
+.text-success { color: #198754; } /* Green */
+.text-danger { color: #dc3545; } /* Red */
+.text-warning { color: #ffc107; } /* Yellow */
+.text-info { color: #0dcaf0; } /* Light Blue */
+.text-light { color: #f8f9fa; } /* Light gray */
+.text-dark { color: #212529; } /* Dark gray */
+.text-muted { color: #6c757d; } /* Muted gray */
+.text-white { color: #ffffff; } /* White */
+
+/* Text Transformation */
+.text-lowercase { text-transform: lowercase; }
+.text-uppercase { text-transform: uppercase; }
+.text-capitalize { text-transform: capitalize; }
+
+/* Text Decoration */
+.text-decoration-none { text-decoration: none; }
+.text-decoration-underline { text-decoration: underline; }
+.text-decoration-line-through { text-decoration: line-through; }
+.text-decoration-overline { text-decoration: overline; }
+
+/* Text Spacing */
+.letter-spacing-1 { letter-spacing: 1px; }
+.letter-spacing-2 { letter-spacing: 2px; }
+.line-height-1 { line-height: 1; }
+.line-height-2 { line-height: 1.25; }
+.line-height-3 { line-height: 1.5; }
+
+/* Text Wrap */
+.text-wrap { white-space: normal; }
+.text-nowrap { white-space: nowrap; }
+
+/* Text Shadow */
+.text-shadow { text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); }
+.text-shadow-sm { text-shadow: 0.2rem 0.2rem 0.5rem rgba(0, 0, 0, 0.15); }
+.text-shadow-lg { text-shadow: 0.25rem 0.25rem 1.25rem rgba(0, 0, 0, 0.25); }
+
+/* Text Hover Effects */
+.text-hover-primary:hover { color: #0d6efd; }
+.text-hover-secondary:hover { color: #6c757d; }
+.text-decoration-none:hover { text-decoration: none; }

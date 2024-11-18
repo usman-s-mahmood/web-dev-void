@@ -1,0 +1,76 @@
+@media (max-width: 768px) {
+    .menu {
+        display: none; /* Hide menu by default */
+        flex-direction: column; /* Stack items vertically */
+        width: 100%;
+        background-color: #0476e0; /* Match navbar background */
+        position: absolute; /* Position it below navbar */
+        top: 60px; /* Adjust based on navbar height */
+        left: 0; 
+        padding-top: 10px; /* Optional padding for top spacing */
+    }
+
+    .menu.active {
+        display: flex; /* Show menu when active */
+    }
+
+    .menu li {
+        margin-right: 0; /* Reset margin for vertical layout */
+        margin-bottom: 10px; /* Add bottom spacing for vertical items */
+        width: 100%; /* Make items full width in mobile view */
+        text-align: center; /* Center align text in mobile view */
+    }
+
+    .toggle-btn {
+        display: flex; /* Show toggle button */
+        flex-direction: column; 
+        cursor: pointer; 
+    }
+
+    .bar {
+        height: 3px; 
+        width: 25px; 
+        background-color: white; 
+        margin: 3px 0; 
+    }
+}
+
+/* Hero Slider */
+/* Responsive Styles */
+@media (max-width: 600px) {
+    .slide {
+        height: 300px; /* Adjust height for smaller screens */
+    }
+}
+
+/* container responsive */
+/* .container for small and medium screens */
+@media (min-width: 576px) {
+    .container {
+      max-width: 540px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .container {
+      max-width: 720px;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .container {
+      max-width: 960px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1140px;
+    }
+  }
+  
+  @media (min-width: 1400px) {
+    .container {
+      max-width: 1320px;
+    }
+  }

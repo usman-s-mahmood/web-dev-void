@@ -1,0 +1,256 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Display Grid Classes */
+.col-1 {
+    width: 8.33%;
+    float: left;
+    /* border: 1px solid black;
+    background-color: aqua; */
+}
+
+.col-2 {
+    width: 16.66%;
+    float: left;
+    /* border: 1px solid black;
+    background-color: aquamarine; */
+}
+
+.col-3 {
+    width: 25%;
+    float: left;
+    /* border: 1px solid black;
+    background-color: azure; */
+}
+
+.col-4 {
+    width: 33.33%;
+    float: left;
+    /* border: 1px solid black;
+    background-color: beige; */
+}
+
+.col-5 {
+    width: 41.66%;
+    float: left;
+    /* border: 1px solid black;
+    background-color: bisque; */
+}
+
+.col-6 {
+    width: 50%;
+    float: left;
+    /* border: 1px solid black; */
+    /* background-color: blue; */
+}
+
+.col-7 {
+    width: 58.33%;
+    float: left;
+    /* border: 1px solid black;
+    background-color: brown; */
+}
+
+.col-8 {
+    width: 66.66%;
+    float: left;
+    /* border: 1px solid black;
+    background-color: blueviolet; */
+}
+
+.col-9 {
+    width: 75%;
+    float: left;
+    /* border: 1px solid black;
+    background-color: burlywood; */
+}
+
+.col-10 {
+    width: 83.33%;
+    float: left;
+    /* border: 1px solid black;
+    background-color: cadetblue; */
+}
+
+.col-11 {
+    width: 91.66%;
+    float: left;
+    /* border: 1px solid black;
+    background-color: #ad0000; */
+}
+
+.col-12 {
+    width: 100%; /* Changed to 100% for full width */
+    float: left;
+    /* border: 1px solid black;
+    background-color: #00a1ad; */
+}
+
+.row {
+    clear: both;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #305ab4;
+    padding: 10px 20px;
+}
+
+.logo {
+    color: white;
+    font-size: 24px;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+}
+
+.menu li {
+    position: relative;
+    margin-right: 20px; /* Add spacing between items */
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+}
+
+.menu a:hover {
+    background-color: rgb(0, 89, 255);
+}
+
+.dropdown-content {
+    display: none; /* Initially hidden */
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px; /* Set a minimum width */
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px; /* Padding for vertical spacing */
+    text-decoration: none;
+    display: block; /* Ensures links stack vertically */
+}
+
+/* Show dropdown on hover */
+.dropdown:hover .dropdown-content {
+    display: block; /* Show when hovering over dropdown */
+}
+
+/* Add hover effect for dropdown items */
+.dropdown-content a:hover {
+    background-color: #ddd; /* Change background on hover */
+}
+
+/* Responsive Styles */
+.toggle-btn {
+    display: none; /* Hidden by default */
+}
+
+/* Hero Slider Styles */
+
+.hero-slider {
+    position: relative;
+    width: 100%;
+    max-width: 100%; /* Set a max width for the slider */
+    margin: auto; /* Center the slider */
+    overflow: hidden; /* Hide overflowing content */
+}
+
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out; /* Smooth transition */
+}
+
+.slide {
+    min-width: 100%; /* Each slide takes full width */
+    height: 400px; /* Set a fixed height for slides */
+    background-size: cover; /* Cover the entire slide area */
+    background-position: center; /* Center the background image */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    color: white;
+    text-align: center;
+}
+
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.prev {
+    left: 10px; /* Position left button */
+}
+
+.next {
+    right: 10px; /* Position right button */
+}
+
+.slide-1 {
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/slider-1.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-2 {
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/slider-2.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-3 {
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/slider-3.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* .container */
+.container {
+    width: 100%;
+    max-width: 1140px; /* Default max width for large screens */
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* .container-fluid */
+.container-fluid {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.rounded-circle {
+    border-radius: 50%;
+}
+
+.img-rounded-circle {
+    max-width: 75%;
+    max-height: 75%;
+    border-radius: 50%;
+}

@@ -6,3 +6,5 @@ venv/
 # VS Code Temps
 .vscode/
 
+# my temps
+misc/
