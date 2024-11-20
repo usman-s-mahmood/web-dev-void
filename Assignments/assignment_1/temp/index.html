@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPT - Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+          }
+          
+          .form-container {
+            width: 80%;
+            max-width: 800px;
+            margin: 50px auto;
+            background: #eaeaea;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+          }
+          
+          h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333;
+          }
+          
+          form {
+            display: flex;
+            flex-direction: column;
+          }
+          
+          .form-group {
+            margin-bottom: 15px;
+          }
+          
+          label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+          }
+          
+          input, textarea, select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+          }
+          
+          textarea {
+            resize: none;
+          }
+          
+          table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+          }
+          
+          table, th, td {
+            border: 1px solid #ddd;
+          }
+          
+          th, td {
+            padding: 10px;
+            text-align: center;
+          }
+          
+          .form-buttons {
+            display: flex;
+            justify-content: space-between;
+          }
+          
+          button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+          }
+          
+          button:hover {
+            background-color: #0056b3;
+          }
+          
+    </style>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration Form</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="form-container">
+    <h1>REGISTRATION FORM</h1>
+    <form>
+      <div class="form-group">
+        <label for="first-name">First Name:</label>
+        <input type="text" id="first-name" maxlength="30" required>
+      </div>
+      <div class="form-group">
+        <label for="last-name">Last Name:</label>
+        <input type="text" id="last-name" maxlength="30" required>
+      </div>
+      <div class="form-group">
+        <label for="dob">Date of Birth:</label>
+        <select id="dob-day">
+          <option value="" disabled selected>Day</option>
+          <!-- Add day options here -->
+        </select>
+        <select id="dob-month">
+          <option value="" disabled selected>Month</option>
+          <!-- Add month options here -->
+        </select>
+        <select id="dob-year">
+          <option value="" disabled selected>Year</option>
+          <!-- Add year options here -->
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="email">Email ID:</label>
+        <input type="email" id="email" required>
+      </div>
+      <div class="form-group">
+        <label for="mobile">Mobile Number:</label>
+        <input type="text" id="mobile" maxlength="10" required>
+      </div>
+      <div class="form-group">
+        <label>Gender:</label>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label>
+      </div>
+      <div class="form-group">
+        <label for="address">Address:</label>
+        <textarea id="address" rows="3"></textarea>
+      </div>
+      <div class="form-group">
+        <label for="city">City:</label>
+        <input type="text" id="city" maxlength="30">
+      </div>
+      <div class="form-group">
+        <label for="pin-code">PIN Code:</label>
+        <input type="text" id="pin-code" maxlength="6">
+      </div>
+      <div class="form-group">
+        <label for="state">State:</label>
+        <input type="text" id="state" maxlength="30">
+      </div>
+      <div class="form-group">
+        <label for="country">Country:</label>
+        <input type="text" id="country" maxlength="30">
+      </div>
+      <div class="form-group">
+        <label>Hobbies:</label>
+        <input type="checkbox" id="drawing" value="drawing">
+        <label for="drawing">Drawing</label>
+        <input type="checkbox" id="singing" value="singing">
+        <label for="singing">Singing</label>
+        <input type="checkbox" id="dancing" value="dancing">
+        <label for="dancing">Dancing</label>
+        <input type="checkbox" id="sketching" value="sketching">
+        <label for="sketching">Sketching</label>
+        <input type="checkbox" id="others" value="others">
+        <label for="others">Others</label>
+      </div>
+      <div class="form-group">
+        <label>Qualification:</label>
+        <table>
+          <thead>
+            <tr>
+              <th>Sl. No.</th>
+              <th>Examination</th>
+              <th>Board</th>
+              <th>Percentage</th>
+              <th>Year of Passing</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>Class X</td>
+              <td><input type="text"></td>
+              <td><input type="text"></td>
+              <td><input type="text"></td>
+            </tr>
+            <!-- Add rows for Class XII, Graduation, Masters -->
+          </tbody>
+        </table>
+      </div>
+      <div class="form-group">
+        <label>Courses Applied For:</label>
+        <input type="checkbox" id="bca" value="BCA">
+        <label for="bca">BCA</label>
+        <input type="checkbox" id="bcom" value="B.Com">
+        <label for="bcom">B.Com</label>
+        <input type="checkbox" id="bsc" value="B.Sc">
+        <label for="bsc">B.Sc</label>
+      </div>
+      <div class="form-buttons">
+        <button type="submit">Submit</button>
+        <button type="reset">Reset</button>
+      </div>
+    </form>
+  </div>
+</body>
+</html>
+
+</body>
+</html>
