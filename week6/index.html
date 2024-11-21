@@ -6,13 +6,14 @@
     <title>Form Validation</title>
     <style>
         .textparas {
-            background-color: rgb(8, 180, 211);
+            background-color: rgb(0, 172, 37);
             color: white;
             font-size: large;
         }
         .customparas {
             background-color: #ad0000;
             color: white;
+            font-size: large;
         }
     </style>
     <script>
@@ -32,30 +33,22 @@
             let paras = document.getElementsByClassName('textparas');
             let i = 0;
             for (i; i < paras.length; i++) {
-
-                if (paras[i].className !== 'textparas')
-                    paras[i].className = 'textparas';
-                else
-                    paras[i].className = 'paras';
+              if(i==0){
+                const list=paras[i].classList;
+                list.add('custompara')
+              }
             }
         }
 
-        let appendPara = () => {
-            let cl = 'custompara';
-            var paras = document.getElementsByTagName('p');
-            let i = 0;
-            for (i; i < paras.length; i++) {
-                paras[i].className = paras[i].className + ' ' + cl;
-            }
-        }
+        
     </script>
 </head>
 <body>
-    <p class="textparas">This is paragraph 1</p>
-    <p>This is paragraph 2</p>
-    <p>This is paragraph 3</p>
-    <p>This is paragraph 4</p>
-    <p>This is paragraph 5</p>
-    <button type="button" onclick="appendPara()">Click Me</button>
+    <p class="textparas" id="tpara">This is paragraph 1</p>
+    <p class="textparas">This is paragraph 2</p>
+    <p class="textparas">This is paragraph 3</p>
+    <p class="textparas">This is paragraph 4</p>
+    <p class="textparas">This is paragraph 5</p>
+    <button type="button" onclick="changePara2()">Click Me</button>
 </body>
 </html>
