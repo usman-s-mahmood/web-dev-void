@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation</title>
+    <style>
+        .textparas {
+            background-color: rgb(8, 180, 211);
+            color: white;
+            font-size: large;
+        }
+    </style>
+    <script>
+        let changePara = () => {
+            var paras = document.getElementsByTagName('p');
+            let i = 0;
+            for (i; i < paras.length; i++) {
+
+                if (paras[i].className !== 'textparas')
+                    paras[i].className = 'textparas';
+                else
+                    paras[i].className = 'paras';
+            }
+        }
+    </script>
+</head>
+<body>
+    <p>This is paragraph 1</p>
+    <p>This is paragraph 2</p>
+    <p>This is paragraph 3</p>
+    <p>This is paragraph 4</p>
+    <p>This is paragraph 5</p>
+    <button type="button" onclick="changePara()">Click Me</button>
+</body>
+</html>

@@ -3,16 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration Form</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        }
-    </style>
+    <title>WAD Assignment 1 - L1F22BSCS1057</title>
+    <link rel="stylesheet" href="./assets/css/registration.css">
 </head>
-
 <body>
     <div style="display: flex; flex-direction: row; justify-content: space-evenly; width: 100%;">
         <div style="width: 15%; display: flex; flex-direction: column;">
@@ -26,22 +19,22 @@
             <a href="./records.html">Record Table And Iframe</a>
         </div>
         <div style="width: 84%; border: 1px solid black;">
-            <div style="color: white; background: silver">
+            <div class="body-start">
                 <form method="post" style="padding: 10px;">
                 
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline;"><label for="">FIRST NAME</label></div>
-                    <div style="display: inline; margin-left: 75px;"><input type="text" required maxlength="30"> (max 30 characters a-z and A-Z)</div>
+                <div class="mb-30">
+                    <div class="d-inline"><label for="">FIRST NAME</label></div>
+                    <div class="inp-1"><input type="text" required maxlength="30"> (max 30 characters a-z and A-Z)</div>
                 </div>
             
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline; "><label for="">LAST NAME</label> </div>
-                    <div style="display: inline; margin-left: 80px;"><input type="text" required maxlength="30"> (max 30 characters a-z and A-Z)</div>
+                <div class="mb-30">
+                    <div class="d-inline"><label for="">LAST NAME</label> </div>
+                    <div class="inp-1"><input type="text" required maxlength="30"> (max 30 characters a-z and A-Z)</div>
                 </div>
             
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline;"><label for="">DATE OF BIRTH</label>  </div>
-                    <div style="display: inline; margin-left: 50px;">
+                <div class="mb-30">
+                    <div class="d-inline"><label for="">DATE OF BIRTH</label>  </div>
+                    <div class="inp-2">
                         <select name="day" id="day">
                             <option value="" disabled selected>Day</option>
                             <option value="1">1</option>
@@ -173,63 +166,63 @@
                     </div>
                 </div>
             
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline; ">
+                <div class="mb-30">
+                    <div class="d-inline">
                         <label for="">Email ID</label>
                     </div>
-                    <div style="display: inline; margin-left: 100px;">
+                    <div class="inp-3">
                         <input type="email" required>
                     </div>
                 </div>
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline; ">
+                <div class="mb-30">
+                    <div class="d-inline">
                         <label for="">GENDER</label>
                     </div>
-                    <div style="display: inline; margin-left: 100px;">
+                    <div class="inp-3">
                         <input type="radio" name="gen" value="male"> Male <input type="radio" name="gen" value="female"> female
                     </div>
                 </div>
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline; ">
+                <div class="mb-30">
+                    <div class="d-inline">
                         <label >ADDRESS</label> 
                     </div>
-                    <div style="display: inline; margin-left: 90px; ">
+                    <div class="inp-4">
                         <textarea name="" id="" cols="30" rows="5"></textarea>
                     </div>
                 </div>
             
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline; ">
+                <div class="mb-30">
+                    <div class="d-inline">
                         <label for="">PIN CODE</label> 
                     </div>
-                    <div style="display: inline; margin-left: 90px; ">
+                    <div class="inp-4">
                         <input type="text" maxlength="6" required> (6 digit number)
                     </div>
                 </div>
             
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline; ">
+                <div class="mb-30">
+                    <div class="d-inline">
                         <label for="">STATE</label>
                     </div>
-                    <div style="display: inline; margin-left: 115px; ">
+                    <div class="inp-5">
                         <input type="text" maxlength="30" required>
                     </div>
                 </div>
             
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline; ">
+                <div class="mb-30">
+                    <div class="d-inline">
                         <label for="">COUNTRY</label>
                     </div>
-                    <div style="display: inline; margin-left: 85px; ">
+                    <div class="inp-6">
                         <input type="text" required>
                     </div>
                 </div>
             
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline; ">
+                <div class="mb-30">
+                    <div class="d-inline">
                         <label for="">HOBBIES</label>
                     </div>
-                    <div style="display: inline; margin-left: 100px; ">
+                    <div class="inp-3">
                         <input type="checkbox" value="Drawing"> Drawing
                         <input type="checkbox" value="Singing"> Singing
                         <input type="checkbox" value="Dancing"> Dancing
@@ -239,11 +232,11 @@
                     </div>
                 </div>
             
-                <div style="margin-bottom: 30px;">
-                    <div style="display: inline; ">
+                <div class="mb-30">
+                    <div class="d-inline">
                         <label for="">COURSES APPLIED FOR</label>
                     </div>
-                    <div style="display: inline; margin-left: 10px; ">
+                    <div class="inp-7">
                         <input type="radio" name="course" id="" value="BSCS"> BSCS
                         <input type="radio" name="course" id="" value="BBA"> BBA
                         <input type="radio" name="course" id="" value="BS(ME)"> BS(ME)
@@ -251,11 +244,11 @@
                     </div>
                 </div>
             
-                <div style="margin-bottom: 30px; display: flex; align-items: center;">
+                <div class="q-start">
                     <div style="margin-right: 20px;">
                         <label for="">Qualification</label>
                     </div>
-                    <div style="border: 2px solid white; padding: 10px; margin-left: 55px;">
+                    <div class="q-brd">
                         <table>
                             <thead>
                                 <tr>
@@ -300,9 +293,9 @@
                     </div>
                 </div>
             
-                <div style="margin-bottom: 30px;">
+                <div class="mb-30">
                     <div>
-                        <div style="display: flex; justify-content: center; margin: auto;">
+                        <div class="btn-group">
                             <input type="submit" value="Submit" style="margin-right: 10px;">
                             <input type="reset" value="Reset">
                         </div>
@@ -313,6 +306,4 @@
         </div>
     </div>
 </body>
-
-
 </html>
