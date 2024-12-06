@@ -1,0 +1,264 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(224, 218, 218);
+}
+
+.header {
+    padding: 10px 0px;
+    background-color: silver;
+    width: 100%;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(190, 173, 173);
+}
+
+.menu-head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-head div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-head p {
+    margin-left: 25px;
+    color: white;
+}
+
+.menu-head div a {
+    text-decoration: none;
+    margin: 0px 25px;
+    color: black;
+}
+
+.search-console {
+    display: flex;
+    flex-direction: row;  
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.search-console div h1 {
+    color: white;
+}
+
+.search-console div form input {
+    border: 5px solid grey;
+    padding: 10px 0px;
+}
+
+.search-console div form button {
+    padding: 10px 0px;
+    color: white;
+    background-color: rgb(104, 102, 102);
+    cursor: pointer;
+}
+
+.menu-head div p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.menu-options {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-list a {
+    margin: 0px 5px;
+    text-decoration: none;
+    margin: 0px 15px;
+    color: black;
+}
+
+.breadcrumb {
+    width: 100%;
+    background-color: rgb(85, 84, 84);
+    padding: 5px 0px;
+    color: white;
+}
+
+.hero-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    /* background-color: silver; */
+    color: white;
+}
+
+.hero-container .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+}
+
+.hero-container .container img {
+    margin: auto;
+    width: 360px;
+}
+
+.body-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.container-80 {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    background-color: white;
+}
+
+.story-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* align-items: center; */
+    width: 100%;
+}
+
+.btn-group {
+    display: flex;
+    /* width: 10%; */
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn-group button {
+    padding: 5px;
+    background-color: grey;
+    color: white;
+    margin-right: 5px;
+}
+
+.main-headline {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.main-headline div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-headline div img {
+    width: 100%;
+    height: 360px;
+    /* margin: 20px 0px; */
+    border: 1px solid white;
+    border-radius: 1%;
+}
+
+.day-date {
+    color: rgb(133, 133, 133);
+}
+
+.headline {
+    font-size: 25px;
+    color: rgb(59, 59, 59);
+    font-weight: bolder;
+    /* margin: 0px 20px; */
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+}
+
+
+.card-img img {
+    width: 220px;
+    height: auto;
+}
+
+.newsletter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    padding: 30px 0px;
+    background-color: rgb(122, 121, 121);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-20 {
+    width: 20%;
+
+}
+
