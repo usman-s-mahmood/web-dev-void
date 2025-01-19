@@ -1,0 +1,414 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(224, 218, 218);
+}
+
+.header {
+    padding: 10px 0px;
+    background-color: silver;
+    width: 100%;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(190, 173, 173);
+}
+
+.menu-head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-head div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-head p {
+    margin-left: 25px;
+    color: white;
+}
+
+.menu-head div a {
+    text-decoration: none;
+    margin: 0px 25px;
+    color: black;
+}
+
+.search-console {
+    display: flex;
+    flex-direction: row;  
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.search-console div h1 {
+    color: white;
+}
+
+.search-console div form input {
+    border: 5px solid grey;
+    padding: 10px 0px;
+}
+
+.search-console div form button {
+    padding: 10px 0px;
+    color: white;
+    background-color: rgb(104, 102, 102);
+    cursor: pointer;
+}
+
+.menu-head div p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.menu-options {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-list a {
+    margin: 0px 5px;
+    text-decoration: none;
+    margin: 0px 15px;
+    color: black;
+}
+
+.breadcrumb {
+    width: 100%;
+    background-color: rgb(85, 84, 84);
+    padding: 5px 0px;
+    color: white;
+}
+
+.hero-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    /* background-color: silver; */
+    color: white;
+}
+
+.hero-container .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+}
+
+.hero-container .container img {
+    margin: auto;
+    width: 360px;
+}
+
+.body-container {
+    width: 100%;
+    display: flex;
+}
+
+.container-80 {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    background-color: white;
+}
+
+.story-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* align-items: center; */
+    width: 100%;
+}
+
+.btn-group {
+    display: flex;
+    /* width: 10%; */
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn-group button {
+    padding: 5px;
+    background-color: grey;
+    color: white;
+    margin-right: 5px;
+}
+
+.main-headline {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.main-headline div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-headline div img {
+    width: 100%;
+    height: 360px;
+    /* margin: 20px 0px; */
+    border: 1px solid white;
+    border-radius: 1%;
+}
+
+.day-date {
+    color: rgb(133, 133, 133);
+}
+
+.headline {
+    font-size: 25px;
+    color: rgb(59, 59, 59);
+    font-weight: bolder;
+    /* margin: 0px 20px; */
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+}
+
+
+.card-img img {
+    width: 220px;
+    height: auto;
+}
+
+.newsletter {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 30px 0px;
+    background-color: rgb(122, 121, 121);
+    color: white;
+}
+
+.newsletter-line {
+    font-size: 30px;
+}
+
+.newsletter-inp {
+    width: 80%;
+    padding: 10px;
+}
+
+.newsletter-submit {
+    width: 10%;
+    padding: 10px;
+    background-color: silver;
+    color: grey;
+}
+
+.container-20 {
+    width: 25%;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: space-evenly; */
+    /* align-items: flex-start; */
+    /* margin-top: -100px; */
+    border: 3px solid silver;
+    padding: 0px 3.5%;
+}
+
+.news-box {
+    display: flex;
+    flex-direction: column;
+    margin: 50px 0px;
+    background-color:rgb(218, 218, 218);
+    color: grey;
+    border: 1px solid silver;
+}
+
+.news-head-container {
+    background-color: grey;
+    padding: 15px;
+}
+
+.news-head {
+    font-size: 25px;
+    color: white;
+}
+
+.news-line {
+    font-size: 15px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.note {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0px;
+}
+
+.note-message {
+    color: rgb(87, 85, 85);
+}
+
+.tweet-container {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: stretch;
+    width: 100%;
+    padding: 15px;
+}
+
+.tweet-head {
+    color: black;
+}
+
+.tweet {
+    margin: 15px 0px;
+}
+
+.btn-tweet {
+    color: black;
+    background-color: silver;
+    padding: 10px;
+    width: 20%;
+    cursor: pointer;
+}
+
+.event-line {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:  0px;
+    background-color: grey;
+    color: white;
+}
+
+.event-line p {
+    margin: 30px;
+}
+
+.event-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: grey;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.event-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.event-card p {
+    margin: 10px 0px;
+}
+
+.ruler {
+    width: 1px;
+    height: 100%;
+    padding: 3px;
+    background-color: white;
+}
+
+.event-img {
+    width: 100%;
+    height: 120px;
+}
+
+/* Media Queries */
+
+/* Screen 1: 1024px to 1920px */
+@media (min-width: 1024px) and (max-width: 1920px) {
+    header h1 {
+        font-size: 2rem;
+    }
+    .story-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Screen 2: 768px to 1023px */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .content {
+        flex-direction: column;
+    }
+    .story-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Screen 3: 450px to 767px */
+@media (min-width: 450px) and (max-width: 767px) {
+    .container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    header nav ul {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+
+    .story-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
