@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\assignment_3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\assignment_3.elzrz5d1c6.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\static\\css\\datepicker.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\static\\css\\icofont.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\static\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\static\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\static\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\static\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\static\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\static\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\static\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\static\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\static\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\static\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\static\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\static\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\static\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\static\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\static\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\author1.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\author1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\author2.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\author2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\author3.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\author3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\blockqoute-bg.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\blockqoute-bg.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\blog-sidebar1.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\blog-sidebar1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\blog-sidebar2.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\blog-sidebar2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\blog-sidebar3.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\blog-sidebar3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\blog1.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\blog2.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\blog3.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\bread-bg.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\bread-bg.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\call-bg.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\call-bg.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\client-bg.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\client-bg.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\client1.png",
+      "PackagePath": "staticwebassets\\static\\img\\client1.png"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\client2.png",
+      "PackagePath": "staticwebassets\\static\\img\\client2.png"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\client3.png",
+      "PackagePath": "staticwebassets\\static\\img\\client3.png"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\client4.png",
+      "PackagePath": "staticwebassets\\static\\img\\client4.png"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\client5.png",
+      "PackagePath": "staticwebassets\\static\\img\\client5.png"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\contact-img.png",
+      "PackagePath": "staticwebassets\\static\\img\\contact-img.png"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\static\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\fun-bg.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\fun-bg.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\logo.png",
+      "PackagePath": "staticwebassets\\static\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\static\\img\\map-marker.png"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\mission-img.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\mission-img.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\pf1.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\pf1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\pf2.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\pf2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\pf3.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\pf3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\pf4.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\pf4.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\section-img.png",
+      "PackagePath": "staticwebassets\\static\\img\\section-img.png"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\signup-bg.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\signup-bg.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\slider.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\slider.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\slider2.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\slider2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\slider3.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\slider3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\testi-bg.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\testi-bg.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\static\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\static\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\colors.js",
+      "PackagePath": "staticwebassets\\static\\js\\colors.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\easing.js",
+      "PackagePath": "staticwebassets\\static\\js\\easing.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\jquery-migrate-3.0.0.js",
+      "PackagePath": "staticwebassets\\static\\js\\jquery-migrate-3.0.0.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\static\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\main.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\map-active.js",
+      "PackagePath": "staticwebassets\\static\\js\\map-active.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\niceselect.js",
+      "PackagePath": "staticwebassets\\static\\js\\niceselect.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\static\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\slicknav.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\slicknav.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\steller.js",
+      "PackagePath": "staticwebassets\\static\\js\\steller.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\assignment_3\\wwwroot\\static\\style.css",
+      "PackagePath": "staticwebassets\\static\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.assignment_3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.assignment_3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.assignment_3.props",
+      "PackagePath": "build\\assignment_3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.assignment_3.props",
+      "PackagePath": "buildMultiTargeting\\assignment_3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.assignment_3.props",
+      "PackagePath": "buildTransitive\\assignment_3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
