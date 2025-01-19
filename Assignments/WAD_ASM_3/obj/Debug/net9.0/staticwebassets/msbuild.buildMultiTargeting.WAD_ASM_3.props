@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WAD_ASM_3.props" />
+</Project>
