@@ -1,279 +1,375 @@
 {
   "Files": [
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WAD_ASM_3.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WAD_ASM_3.n05pm4gd67.bundle.scp.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/obj/Debug/net9.0/scopedcss/projectbundle/WAD_ASM_3.bundle.scp.css",
+      "PackagePath": "staticwebassets/WAD_ASM_3.d3i3rdylhd.bundle.scp.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
     },
     {
-      "Id": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WAD_ASM_3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/css/bootstrap.css",
+      "PackagePath": "staticwebassets/static/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/static/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/css/responsive.css",
+      "PackagePath": "staticwebassets/static/css/responsive.css"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/css/style.css",
+      "PackagePath": "staticwebassets/static/css/style.css"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/css/style.css.map",
+      "PackagePath": "staticwebassets/static/css/style.css.map"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/css/style.scss",
+      "PackagePath": "staticwebassets/static/css/style.scss"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/static/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/static/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/static/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/about-img.jpg",
+      "PackagePath": "staticwebassets/static/images/about-img.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/p1.jpg",
+      "PackagePath": "staticwebassets/static/images/p1.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/p2.jpg",
+      "PackagePath": "staticwebassets/static/images/p2.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/p3.jpg",
+      "PackagePath": "staticwebassets/static/images/p3.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/p4.jpg",
+      "PackagePath": "staticwebassets/static/images/p4.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/p5.jpg",
+      "PackagePath": "staticwebassets/static/images/p5.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/slider-img.jpg",
+      "PackagePath": "staticwebassets/static/images/slider-img.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/slider-img2.jpg",
+      "PackagePath": "staticwebassets/static/images/slider-img2.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/slider-img3.jpg",
+      "PackagePath": "staticwebassets/static/images/slider-img3.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/team1.jpg",
+      "PackagePath": "staticwebassets/static/images/team1.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/team2.jpg",
+      "PackagePath": "staticwebassets/static/images/team2.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/images/team3.jpg",
+      "PackagePath": "staticwebassets/static/images/team3.jpg"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/js/bootstrap.js",
+      "PackagePath": "staticwebassets/static/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/js/custom.js",
+      "PackagePath": "staticwebassets/static/js/custom.js"
+    },
+    {
+      "Id": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/wwwroot/static/js/jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets/static/js/jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.WAD_ASM_3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WAD_ASM_3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.WAD_ASM_3.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WAD_ASM_3.props",
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.WAD_ASM_3.props",
       "PackagePath": "build\\WAD_ASM_3.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WAD_ASM_3.props",
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.WAD_ASM_3.props",
       "PackagePath": "buildMultiTargeting\\WAD_ASM_3.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WAD_ASM_3.props",
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.WAD_ASM_3.props",
       "PackagePath": "buildTransitive\\WAD_ASM_3.props"
     }
   ],

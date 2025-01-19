@@ -8,25 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\UsmanShahid\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/onyx-frost/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\WAD_ASM_3.csproj",
+      "projectUniqueName": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/WAD_ASM_3.csproj",
       "projectName": "WAD_ASM_3",
-      "projectPath": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\WAD_ASM_3.csproj",
-      "packagesPath": "C:\\Users\\UsmanShahid\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\web-dev-void\\Assignments\\WAD_ASM_3\\obj\\",
+      "projectPath": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/WAD_ASM_3.csproj",
+      "packagesPath": "/home/onyx-frost/.nuget/packages/",
+      "outputPath": "/home/onyx-frost/Documents/GitHub/Web-Dev-void/Assignments/WAD_ASM_3/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\UsmanShahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/onyx-frost/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -74,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
